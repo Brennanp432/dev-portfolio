@@ -36,7 +36,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Check out my skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -46,7 +46,23 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Photoshop"
+      },
+      {
+        "skillname":"jQuery"
+      },
+      {
+        "skillname":"python"
+      },
+      {
+        "skillname":"nodeJS"
+      },
+      {
+        "skillname":"CSharp"
       }
+
     ],
     "portfolio":[
       {
