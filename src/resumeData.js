@@ -53,7 +53,6 @@ let resumeData = {
       {
         "name":"Todo App",
         "description":"React Todo App",
-        "imgurl":"images/portfolio/phone.jpg"
       },
     ],
     "testimonials":[
